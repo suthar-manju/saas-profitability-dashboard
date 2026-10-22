@@ -1,0 +1,7 @@
+Check,Count,Action
+Duplicate rows,0,None needed
+Duplicate Row IDs,0,None needed
+Missing values (total),0,None needed
+Sales <= 0,0,None needed
+Discount < 0 or > 1,0,None needed
+Loss-making rows,1871,Kept; flagged in Is_Loss
